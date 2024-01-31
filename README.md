@@ -4,11 +4,10 @@ Hi 👋 My name is Abdulbasit Abdullahi
 Software Engineering | Fullstack Developer
 ------------------------------------------
 
-I am currently a Software Engineering student at Alx-Africa School - Holberton Sch. I'm also a Mechanical Engineering Student.
+I am a Software Engineering Graduate at Alx-Africa School - Holberton Sch.
 
 * 🌍  I'm based in Ilorin, Nigeria
 * ✉️  You can contact me at [Bibhestee@gmail.com](mailto:Bibhestee@gmail.com)
-* 🧠  I'm learning ReactJS(Front End) and NodeJS(Back End)
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.github.com/bibhestee" target="_blank" rel="noreferrer"><img
