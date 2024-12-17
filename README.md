@@ -1,12 +1,13 @@
-Hi 👋 My name is Abdulbasit Abdullahi
+Hi 👋 
+My name is Abdulbasit Abdullahi
 =====================================
 
-Software Engineering | Fullstack Developer
+Software Engineer | Fullstack Developer
 ------------------------------------------
 
 I am a Software Engineering Graduate at Alx-Africa School - Holberton Sch.
 
-* 🌍  I'm based in Ilorin, Nigeria
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [Bibhestee@gmail.com](mailto:Bibhestee@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects.
 
